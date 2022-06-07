@@ -30,9 +30,9 @@ const Dashboard = () => {
 						<path
 							d="M128.039 83.2588C128.754 101.624 129.738 119.978 130.993 138.319"
 							stroke="black"
-							stroke-width="0.956138"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
+							strokeWidth="0.956138"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
 						/>
 						<path
 							d="M100.865 97.8478C100.197 102.175 99.8129 106.538 99.7155 110.91C99.7295 109.901 100.964 109.377 101.605 108.568C102.178 107.83 102.243 106.868 102.289 105.959C102.431 103.014 102.512 99.8436 100.865 97.8478Z"
@@ -49,16 +49,16 @@ const Dashboard = () => {
 						<path
 							d="M94.033 117.937C98.9092 110.942 104.781 103.006 111.745 99.3199"
 							stroke="black"
-							stroke-width="0.956138"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
+							strokeWidth="0.956138"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
 						/>
 						<path
 							d="M122.203 108.629C121.314 113.469 119.1 118.532 115.732 122.276C110.681 127.9 105.501 133.621 98.8459 137.481"
 							stroke="black"
-							stroke-width="0.956138"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
+							strokeWidth="0.956138"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
 						/>
 						<path
 							d="M136.672 111.715L146.413 87.0319C146.655 86.4183 147.096 85.8925 147.673 85.5294C148.249 85.1663 148.932 84.9843 149.625 85.0095L163.223 85.4978C163.744 85.5162 164.254 85.6513 164.709 85.892C165.164 86.1326 165.552 86.472 165.841 86.8821C166.131 87.2922 166.313 87.7614 166.373 88.2511C166.434 88.7407 166.37 89.237 166.188 89.6989L158.559 109.023L149.414 114.334C149.172 114.947 148.731 115.474 148.155 115.837C147.578 116.2 146.895 116.382 146.203 116.357L139.633 115.928C139.111 115.91 138.601 115.774 138.145 115.533C137.689 115.291 137.3 114.951 137.011 114.539C136.721 114.128 136.54 113.657 136.481 113.166C136.422 112.675 136.487 112.178 136.672 111.715Z"
@@ -75,16 +75,16 @@ const Dashboard = () => {
 						<path
 							d="M159.336 103.006C161.922 108.341 164.81 113.539 167.989 118.579"
 							stroke="black"
-							stroke-width="0.956138"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
+							strokeWidth="0.956138"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
 						/>
 						<path
 							d="M157.449 133.167C150.897 127.275 146.343 119.677 144.366 111.335"
 							stroke="black"
-							stroke-width="0.956138"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
+							strokeWidth="0.956138"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
 						/>
 						<path
 							d="M144.697 112.748C150.084 110.377 155.327 107.724 160.403 104.803L159.454 102.558L143.953 110.982C144.249 111.695 144.541 112.404 144.697 112.748Z"
@@ -145,23 +145,23 @@ const Dashboard = () => {
 						<path
 							d="M137.831 51.0198C138.071 50.7759 138.389 50.6134 138.737 50.5574C139.084 50.5014 139.442 50.555 139.754 50.71C140.237 50.9637 140.599 51.4667 141.158 51.5154C141.646 51.5582 142.066 51.2204 142.489 50.9859C142.912 50.7513 143.545 50.6466 143.825 51.0272"
 							stroke="black"
-							stroke-width="0.956138"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
+							strokeWidth="0.956138"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
 						/>
 						<path
 							d="M137.312 58.0575C137.687 58.3869 138.162 58.5967 138.67 58.6573C139.178 58.7179 139.694 58.6263 140.144 58.3953"
 							stroke="black"
-							stroke-width="0.956138"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
+							strokeWidth="0.956138"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
 						/>
 						<path
 							d="M134.681 59.9781C135.667 60.8073 136.937 61.271 138.257 61.2835C139.576 61.2959 140.856 60.8564 141.859 60.046"
 							stroke="black"
-							stroke-width="0.956138"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
+							strokeWidth="0.956138"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
 						/>
 						<path d="M35.4112 96.115L40.3358 109.813L45.7566 104.702L35.4112 96.115Z" fill="white" />
 						<path d="M26.436 93.9449L15.053 115.622L24.7321 119.876L26.436 93.9449Z" fill="white" />
@@ -192,74 +192,74 @@ const Dashboard = () => {
 						<path
 							d="M142.816 92.984C142.816 92.984 143.696 96.0567 145.461 97.4094"
 							stroke="black"
-							stroke-width="0.637426"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
+							strokeWidth="0.637426"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
 						/>
 						<path
 							d="M140.696 96.0451C140.696 96.0451 141.576 99.1178 143.341 100.47"
 							stroke="black"
-							stroke-width="0.637426"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
+							strokeWidth="0.637426"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
 						/>
 						<path
 							d="M139.576 99.752C139.576 99.752 140.456 102.825 142.229 104.177"
 							stroke="black"
-							stroke-width="0.637426"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
+							strokeWidth="0.637426"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
 						/>
 						<path
 							d="M148.093 92.3735C148.093 92.3735 148.973 95.4462 150.746 96.7989"
 							stroke="black"
-							stroke-width="0.637426"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
+							strokeWidth="0.637426"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
 						/>
-						<path d="M153 107.491L151.3 108.505L150.406 106.903" stroke="white" stroke-width="0.637426" stroke-miterlimit="10" stroke-linecap="round" />
+						<path d="M153 107.491L151.3 108.505L150.406 106.903" stroke="white" strokeWidth="0.637426" strokeMiterlimit="10" strokeLinecap="round" />
 						<path
 							d="M129.378 92.8985C129.378 92.8985 126.04 93.757 123.081 95.6511"
 							stroke="black"
-							stroke-width="0.637426"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
+							strokeWidth="0.637426"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
 						/>
 						<path
 							d="M129.078 96.6204C129.078 96.6204 126.54 96.9242 124.359 98.2932"
 							stroke="black"
-							stroke-width="0.637426"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
+							strokeWidth="0.637426"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
 						/>
 						<path
 							d="M129.078 99.5498C129.078 99.5498 127.274 99.33 124.752 100.903"
 							stroke="black"
-							stroke-width="0.637426"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
+							strokeWidth="0.637426"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
 						/>
 						<path
 							d="M129.079 102.154C129.079 102.154 127.167 102.18 125.005 103.421"
 							stroke="black"
-							stroke-width="0.637426"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
+							strokeWidth="0.637426"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
 						/>
 						<path
 							d="M135.501 120.609C127.902 128.454 97.1229 153.708 57.0037 98.8728"
 							stroke="white"
-							stroke-width="1.91228"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
-							stroke-dasharray="3.83 3.83"
+							strokeWidth="1.91228"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
+							strokeDasharray="3.83 3.83"
 						/>
 						<path
 							d="M56.4626 98.1411C56.2882 97.8977 56.1121 97.6543 55.9377 97.4036"
 							stroke="black"
-							stroke-width="1.91228"
-							stroke-miterlimit="10"
-							stroke-linecap="round"
+							strokeWidth="1.91228"
+							strokeMiterlimit="10"
+							strokeLinecap="round"
 						/>
 						<path
 							d="M60.4845 96.61C59.8728 96.877 53.9481 100.847 53.9481 100.847C53.9481 100.847 53.2911 92.7938 53.2272 92.9871C53.1632 93.1803 60.4845 96.61 60.4845 96.61Z"
@@ -276,26 +276,26 @@ const Dashboard = () => {
 						<path
 							d="M53.3217 137.483C54.7669 137.483 55.9384 136.375 55.9384 135.009C55.9384 133.643 54.7669 132.535 53.3217 132.535C51.8765 132.535 50.7049 133.643 50.7049 135.009C50.7049 136.375 51.8765 137.483 53.3217 137.483Z"
 							stroke="#0081A0"
-							stroke-width="1.27485"
-							stroke-miterlimit="10"
+							strokeWidth="1.27485"
+							strokeMiterlimit="10"
 						/>
 						<path
 							d="M64.8353 156.437C65.8738 156.437 66.7156 155.641 66.7156 154.659C66.7156 153.678 65.8738 152.882 64.8353 152.882C63.7969 152.882 62.9551 153.678 62.9551 154.659C62.9551 155.641 63.7969 156.437 64.8353 156.437Z"
 							stroke="#0081A0"
-							stroke-width="1.27485"
-							stroke-miterlimit="10"
+							strokeWidth="1.27485"
+							strokeMiterlimit="10"
 						/>
 						<path
 							d="M64.8353 156.437C65.8738 156.437 66.7156 155.641 66.7156 154.659C66.7156 153.678 65.8738 152.882 64.8353 152.882C63.7969 152.882 62.9551 153.678 62.9551 154.659C62.9551 155.641 63.7969 156.437 64.8353 156.437Z"
 							stroke="#0081A0"
-							stroke-width="1.27485"
-							stroke-miterlimit="10"
+							strokeWidth="1.27485"
+							strokeMiterlimit="10"
 						/>
 						<path
 							d="M36.5392 135.873C37.5776 135.873 38.4195 135.078 38.4195 134.096C38.4195 133.114 37.5776 132.318 36.5392 132.318C35.5008 132.318 34.6589 133.114 34.6589 134.096C34.6589 135.078 35.5008 135.873 36.5392 135.873Z"
 							stroke="#0081A0"
-							stroke-width="1.27485"
-							stroke-miterlimit="10"
+							strokeWidth="1.27485"
+							strokeMiterlimit="10"
 						/>
 					</svg>
 					<div>

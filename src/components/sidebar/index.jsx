@@ -6,7 +6,7 @@ const Sidebar = () => {
 	return (
 		<aside className="fixed top-0 py-8 left-4 h-screen max-h-[900px] flex flex-col justify-between items-center">
 			<div className="w-full flex flex-col items-center gap-6">
-				<img src="/icons/logo.svg" alt="Company logo" />
+				<img src="/images/logo.svg" alt="Company logo" />
 				<div className="flex gap-4 items-center">
 					<img width={28} height={28} className="w-[28px] h-[28px] rounded-full" src="/images/profile.png" alt="User avatar" />
 					<span className="font-medium">Hi Merchant</span>
